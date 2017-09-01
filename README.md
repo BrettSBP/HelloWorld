@@ -1,2 +1,2 @@
 # HelloWorld
-I amk writing my fisrt git repository change!
+I am writing my fisrt git repository change!
